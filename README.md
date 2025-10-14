@@ -211,7 +211,7 @@ const moustapha = {
 </div>
 
 <details>
-<summary><b>📌 Note:</b> Pour activer l'animation du serpent, vous devez configurer GitHub Actions</summary>
+<!-- <summary><b>📌 Note:</b> Pour activer l'animation du serpent, vous devez configurer GitHub Actions</summary> -->
 
 <br>
 
