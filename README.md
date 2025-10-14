@@ -23,8 +23,12 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-purple?style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge)
 ![React](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge)
+![React Native](https://img.shields.io/badge/Framework-React%20Native-00D8FF?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/Language-C-lightgrey?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?style=for-the-badge)
+
+
 
 ---
 
