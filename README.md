@@ -49,8 +49,8 @@
 
 ### 📫 Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-moustapha--aden-black?style=for-the-badge&logo=github)](https://github.com/moustapha-aden)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moustapha%20Aden-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:tonemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moustapha%20Aden%20Diriyeh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moustapha-aden-diriyeh-344569225)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:moustaphaaden232020@gmail.com)
 
 ---
 
