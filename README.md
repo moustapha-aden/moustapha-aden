@@ -194,9 +194,9 @@ const moustapha = {
 
 <div align="center">
 
-### 💬 Quote of the Day
+### 💬 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
 </div>
 
@@ -204,15 +204,47 @@ const moustapha = {
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 Watch My Contributions Get Eaten!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moustapha-aden/moustapha-aden/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moustapha-aden/moustapha-aden/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moustapha-aden/moustapha-aden/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/moustapha-aden/moustapha-aden/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<details>
+<summary><b>📌 Note:</b> Pour activer l'animation du serpent, vous devez configurer GitHub Actions</summary>
+
+<br>
+
+Créez un fichier `.github/workflows/snake.yml` dans votre repo avec ce contenu:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: moustapha-aden
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
