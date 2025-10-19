@@ -23,9 +23,9 @@ const moustapha = {
     role: "Full Stack Developer & Cybersecurity Enthusiast",
     location: "Djibouti 🇩🇯",
     education: "Software Engineering Student",
-    languages: ["French", "Arabic", "Somali"],
-    currentFocus: ["Laravel", "React", "Python", "Cybersecurity"],
-    interests: ["Web Development", "Automation", "Open Source"],
+    languages: ["French", "Arabic", "Somali",English],
+    currentFocus: ["Laravel", "React", "react native" ,"Python", "Cybersecurity"],
+    interests: ["Web Development","mobile application ", "Automation", "Open Source"],
     funFact: "I love automating everything I can! 🤖"
 };
 ```
