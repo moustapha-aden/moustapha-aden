@@ -4,7 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+Problem+Solver;Passionate+about+Web+%26+Cybersecurity;Building+Innovative+Solutions" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/moustapha-aden?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0366d6)](https://github.com/moustapha-aden)
+[![GitHub followers](https://img.shields.io/github/followers/moustapha-aden?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0366d6&cacheSeconds=60
+)](https://github.com/moustapha-aden)
 [![GitHub stars](https://img.shields.io/github/stars/moustapha-aden?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0366d6)](https://github.com/moustapha-aden)
 [![Profile Views](https://komarev.com/ghpvc/?username=moustapha-aden&style=for-the-badge&color=0366d6)](https://github.com/moustapha-aden)
 
