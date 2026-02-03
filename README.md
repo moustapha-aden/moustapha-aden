@@ -21,14 +21,32 @@
 
 ```javascript
 const moustapha = {
-    role: "Full Stack Developer & Cybersecurity Enthusiast",
+    role: "Junior Full Stack Developer & Cybersecurity Enthusiast",
     location: "Djibouti 🇩🇯",
-    education: "Software Engineering Student",
-    languages: ["French", "Arabic", "Somali","English"],
-    currentFocus: ["Laravel", "React", "react native" ,"Python", "Cybersecurity"],
-    interests: ["Web Development","mobile application ", "Automation", "Open Source"],
-    funFact: "I love automating everything I can! 🤖"
+    education: "Bachelor's degree in Computer Science from the University of Djibouti 🇩🇯",
+    languages: ["French", "Arabic", "Somali", "English"],
+    techStack: ["Laravel", "React", "React Native", "Python", "Next.js", "Docker", "MySQL"],
+    focus: [
+        "Web development",
+        "Mobile applications",
+        "API development (REST)",
+        "Cybersecurity (fundamentals)",
+        "Automation",
+        "DawaDrop project – medication delivery platform",
+        "GEFD project – student guidance and support platform",
+        "Sakinah project – a mobile application dedicated to Islamic supplications (adhkar)"
+    ],
+    interests: [
+        "Machine learning",
+        "Real-world impact projects",
+        "Open Source",
+        "Backend architecture",
+        "Application performance",
+        "Innovative solutions"
+    ],
+    funFact: "If a task can be automated, I will automate it 😄"
 };
+
 ```
 
 <div align="center">
@@ -38,6 +56,28 @@ const moustapha = {
 </div>
 
 <table align="center">
+
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/pill.png" width="64" height="64" alt="DawaDrop"/>
+<br><b>DawaDrop</b>
+<br><sub>Medication delivery platform</sub>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="64" height="64" alt="GEFD"/>
+<br><b>GEFD (Guide eCampus France for Djiboutian students)</b>
+<br><sub>Student guidance and support platform</sub>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/prayer.png" width="64" height="64" alt="Sakinah"/>
+<br><b>Sakinah</b>
+<br><sub>Islamic supplications (adhkar) mobile application</sub>
+</td>
+</tr>
+
+
 <tr>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="64" height="64" alt="CertiCarte"/>
@@ -71,10 +111,13 @@ const moustapha = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
+
 
 ### 🚀 Frameworks & Libraries
 
@@ -82,6 +125,7 @@ const moustapha = {
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
@@ -90,11 +134,14 @@ const moustapha = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
+
+
 
 ---
 
@@ -122,7 +169,7 @@ const moustapha = {
 
 <div align="center">
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 </div>
 
@@ -131,25 +178,29 @@ const moustapha = {
 <td width="50%">
 
 ### 🚀 Technical Goals
-- ✅ Master Full-Stack Development (Laravel + React)
-- 🔄 Deep dive into Cybersecurity & Ethical Hacking
-- 📱 Build production-ready mobile apps with React Native
-- 🤖 Implement AI/ML features in web applications
-- ☁️ Learn cloud deployment (AWS, Azure, or GCP)
+- [x]  Master full-stack development (Laravel + React)
+- [x]  Master Next.js for modern web development
+- [x]  Build production-ready mobile applications with React Native
+- [x]  Master Python for automation and scripting
+- [x]  Master TypeScript for frontend and backend development
+- [ ]  Deepen my knowledge in cybersecurity & ethical hacking
+- [ ]  Implement AI/ML features in web applications using Python
+- [ ]  Learn and practice cloud deployment (AWS, Azure, or GCP)
 
 </td>
 <td width="50%">
 
 ### 🤝 Community Goals
-- 🌟 Contribute to 10+ open-source projects
-- 📝 Write technical blog posts & tutorials
-- 👥 Collaborate with international developers
-- 🎓 Mentor junior developers
-- 🏆 Build a professional developer portfolio
+- [ ]  Contribute to 10+ open-source projects
+- [ ]  Write technical blog posts and tutorials
+- [ ]  Collaborate with international developers
+- [ ]  Mentor junior developers
+- [x]  Build a professional developer portfolio
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -161,12 +212,18 @@ const moustapha = {
 
 <div align="center">
 
+[![DawaDrop](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=DawaDrop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/DawaDrop)
+
+[![GEFD](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=GEFD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/GEFD)
+
+[![Sakinah](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=Sakinah&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/Sakinah)
+
 [![CertiCarte](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=CertiCarte&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/CertiCarte)
-[![commerce_electronique](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=commerce_electronique&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/commerce_electronique)
+
 [![PrintManager](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=PrintManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/PrintManager)
-[![Site-de-publicite](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=Site-de-publicite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/Site-de-publicite)
 
 </div>
+
 
 ---
 
