@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+Problem+Solver;Passionate+about+Web+%26+Cybersecurity;Building+Innovative+Solutions" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/moustapha-aden?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0366d6&cacheSeconds=60
-)](https://github.com/moustapha-aden)
+[![GitHub followers](https://img.shields.io/github/followers/moustapha-aden?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0366d6&cacheSeconds=60)](https://github.com/moustapha-aden)
 [![GitHub stars](https://img.shields.io/github/stars/moustapha-aden?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0366d6)](https://github.com/moustapha-aden)
 [![Profile Views](https://komarev.com/ghpvc/?username=moustapha-aden&style=for-the-badge&color=0366d6)](https://github.com/moustapha-aden)
 
@@ -15,25 +14,80 @@
 
 <div align="center">
 
-## 🚀 About Me
+## 🚀 À propos
 
 </div>
 
 ```javascript
 const moustapha = {
-    role: "Full Stack Developer & Cybersecurity Enthusiast",
+    role: "Développeur Full Stack & Enthousiaste Cybersécurité",
     location: "Djibouti 🇩🇯",
-    education: "Software Engineering Student",
-    languages: ["French", "Arabic", "Somali","English"],
-    currentFocus: ["Laravel", "React", "react native" ,"Python", "Cybersecurity"],
-    interests: ["Web Development","mobile application ", "Automation", "Open Source"],
-    funFact: "I love automating everything I can! 🤖"
+    education: "Étudiant en Génie Logiciel",
+    languages: ["Français", "Arabe", "Somali", "Anglais"],
+    techStack: ["Laravel", "React", "React Native", "Python"],
+    focus: ["Développement Web", "Applications mobiles", "Cybersécurité", "Automatisation"],
+    interests: ["Web", "Mobile", "Open Source", "Solutions innovantes"],
+    funFact: "J'aime automatiser tout ce qui peut l'être ! 🤖"
 };
 ```
 
+---
+
 <div align="center">
 
-### 💼 What I'm Working On
+## 💼 Projets réalisés
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/medical.png" width="56" height="56" alt="DawaDrop"/>
+<br><b>DawaDrop</b>
+<br><sub>Livraison pharmaceutique à domicile</sub>
+<br><sub>Laravel • React • Tailwind</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/home.png" width="56" height="56" alt="Sakinah"/>
+<br><b>Sakinah</b>
+<br><sub>Plateforme / Projet personnel</sub>
+<br><sub>Full Stack</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="56" height="56" alt="CertiCarte"/>
+<br><b>CertiCarte</b>
+<br><sub>Gestion de certifications</sub>
+<br><sub>Système de gestion</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/megaphone.png" width="56" height="56" alt="Site-de-publicité"/>
+<br><b>Site-de-publicité</b>
+<br><sub>Plateforme publicitaire</sub>
+<br><sub>Web moderne</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/print.png" width="56" height="56" alt="PrintManager"/>
+<br><b>PrintManager</b>
+<br><sub>Gestion des impressions</sub>
+<br><sub>Système d'impression</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/shopping-cart.png" width="56" height="56" alt="E-commerce"/>
+<br><b>Commerce Électronique</b>
+<br><sub>Boutique en ligne</sub>
+<br><sub>E-commerce</sub>
+</td>
+<td colspan="2" align="center"></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🔨 En cours de développement
 
 </div>
 
@@ -42,17 +96,17 @@ const moustapha = {
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="64" height="64" alt="CertiCarte"/>
 <br><b>CertiCarte</b>
-<br><sub>Certification Management System</sub>
+<br><sub>Système de gestion des certifications</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/megaphone.png" width="64" height="64" alt="Advertising"/>
 <br><b>Site-de-publicité</b>
-<br><sub>Modern Advertising Platform</sub>
+<br><sub>Plateforme publicitaire moderne</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/print.png" width="64" height="64" alt="PrintManager"/>
 <br><b>PrintManager</b>
-<br><sub>Print Job Management System</sub>
+<br><sub>Gestion des jobs d'impression</sub>
 </td>
 </tr>
 </table>
@@ -61,11 +115,11 @@ const moustapha = {
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Stack technique & outils
 
 </div>
 
-### 💻 Languages
+### 💻 Langages
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -76,7 +130,7 @@ const moustapha = {
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks & bibliothèques
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
@@ -86,7 +140,7 @@ const moustapha = {
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Bases de données & outils
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -100,7 +154,7 @@ const moustapha = {
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 Statistiques GitHub
 
 </div>
 
@@ -122,7 +176,7 @@ const moustapha = {
 
 <div align="center">
 
-## 🎯 Goals for 2025
+## 🎯 Objectifs 2026
 
 </div>
 
@@ -130,22 +184,22 @@ const moustapha = {
 <tr>
 <td width="50%">
 
-### 🚀 Technical Goals
-- ✅ Master Full-Stack Development (Laravel + React)
-- 🔄 Deep dive into Cybersecurity & Ethical Hacking
-- 📱 Build production-ready mobile apps with React Native
-- 🤖 Implement AI/ML features in web applications
-- ☁️ Learn cloud deployment (AWS, Azure, or GCP)
+### 🚀 Objectifs techniques
+- ✅ Maîtriser le Full-Stack (Laravel + React)
+- 🔄 Approfondir la cybersécurité & l’ethical hacking
+- 📱 Déployer des applications mobiles (React Native)
+- 🤖 Intégrer IA/ML dans des applications web
+- ☁️ Déploiement cloud (AWS, Azure ou GCP)
 
 </td>
 <td width="50%">
 
-### 🤝 Community Goals
-- 🌟 Contribute to 10+ open-source projects
-- 📝 Write technical blog posts & tutorials
-- 👥 Collaborate with international developers
-- 🎓 Mentor junior developers
-- 🏆 Build a professional developer portfolio
+### 🤝 Objectifs communauté
+- 🌟 Contribuer à 10+ projets open source
+- 📝 Rédiger des articles et tutoriels techniques
+- 👥 Collaborer avec des développeurs internationaux
+- 🎓 Accompagner des juniors
+- 🏆 Consolider un portfolio professionnel
 
 </td>
 </tr>
@@ -155,12 +209,13 @@ const moustapha = {
 
 <div align="center">
 
-## 💡 Featured Projects
+## 💡 Projets mis en avant
 
 </div>
 
 <div align="center">
 
+[![DawaDrop](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=DawaDrop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/DawaDrop)
 [![CertiCarte](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=CertiCarte&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/CertiCarte)
 [![commerce_electronique](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=commerce_electronique&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/commerce_electronique)
 [![PrintManager](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=PrintManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/PrintManager)
@@ -168,13 +223,17 @@ const moustapha = {
 
 </div>
 
+> **Note :** Si le projet **Sakinah** est hébergé sur GitHub, remplacez l’URL ci-dessus ou ajoutez un bloc `[![Sakinah](...)](https://github.com/moustapha-aden/Sakinah)` avec le bon nom de dépôt.
+
 ---
 
 <div align="center">
 
-## 📫 Let's Connect!
+## 📫 Contact
 
-<p>
+</div>
+
+<p align="center">
   <a href="https://github.com/moustapha-aden">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -189,13 +248,11 @@ const moustapha = {
   </a>
 </p>
 
-</div>
-
 ---
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💬 Citation dev
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
@@ -205,20 +262,19 @@ const moustapha = {
 
 <div align="center">
 
-### 🐍 Watch My Contributions Get Eaten!
+### 🐍 Contributions
 
 ![Snake animation](https://github.com/moustapha-aden/moustapha-aden/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-
 ---
 
 <div align="center">
 
-### ⚡ Fun Fact
+### ⚡ Citation
 
-*"The best error message is the one that never shows up." - Thomas Fuchs*
+*"The best error message is the one that never shows up." — Thomas Fuchs*
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
@@ -228,7 +284,7 @@ const moustapha = {
 
 <div align="center">
 
-**⭐ Thanks for visiting my profile! Feel free to reach out or collaborate with me! ⭐**
+**Merci de votre visite. N’hésitez pas à me contacter ou à proposer une collaboration.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 
