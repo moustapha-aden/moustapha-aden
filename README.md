@@ -18,7 +18,7 @@
 
 </div>
 
-
+```javascript
 const moustapha = {
   role: "Junior Full Stack Developer & Cybersecurity Enthusiast",
   location: "Djibouti 🇩🇯",
@@ -28,6 +28,8 @@ const moustapha = {
   interests: ["Web Development", "Mobile Application", "Automation", "Open Source"],
   funFact: "I love automating everything I can! 🤖"
 };
+```
+
 <div align="center">
 💼 What I'm Working On
 </div> <table align="center"> <tr> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/96/000000/pill.png" width="64" height="64" alt="DawaDrop"/> <br><b>DawaDrop</b> <br><sub>Medication Delivery Platform</sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="64" height="64" alt="Sakinah"/> <br><b>Sakinah</b> <br><sub>Student Guide Platform</sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="64" height="64" alt="CertiCarte"/> <br><b>CertiCarte</b> <br><sub>Certification Management</sub> </td> <td align="center" width="25%"> <img src="https://img.icons8.com/fluency/96/000000/print.png" width="64" height="64" alt="PrintManager"/> <br><b>PrintManager</b> <br><sub>Print Job Management</sub> </td> </tr> </table>
