@@ -212,18 +212,12 @@ const moustapha = {
 
 <div align="center">
 
-[![DawaDrop](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=DawaDrop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/DawaDrop)
-
-[![GEFD](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=GEFD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/GEFD)
-
-[![Sakinah](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=Sakinah&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/Sakinah)
-
 [![CertiCarte](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=CertiCarte&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/CertiCarte)
-
+[![commerce_electronique](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=commerce_electronique&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/commerce_electronique)
 [![PrintManager](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=PrintManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/PrintManager)
+[![Site-de-publicite](https://github-readme-stats.vercel.app/api/pin/?username=moustapha-aden&repo=Site-de-publicite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/moustapha-aden/Site-de-publicite)
 
 </div>
-
 
 ---
 
